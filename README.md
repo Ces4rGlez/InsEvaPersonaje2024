@@ -53,10 +53,9 @@ El módulo de sonido, conectado al ESP32, le permite reproducir melodías navide
 
 
 ## Imagen del Prototipo
+![image](https://github.com/user-attachments/assets/226af694-2c2b-4c55-8658-46714df0c454)
 
-| **Descripción**                | **Enlace**                                                                                                                                      |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| Carpeta en Google Drive Prototipoa   | [https://drive.google.com/drive/folders/16q9N3SHDip13BYtBzVejbEE3492vg-Wv?usp=sharing](https://drive.google.com/drive/folders/16q9N3SHDip13BYtBzVejbEE3492vg-Wv?usp=sharing) |
+![image](https://github.com/user-attachments/assets/3143e62c-fd88-474b-9aad-b614702851ec)
 
 ## Enlaces de la simulación de wokwi
 ## Proyectos en Wokwi
@@ -69,13 +68,34 @@ El módulo de sonido, conectado al ESP32, le permite reproducir melodías navide
 
 
 
-## Videos
-
+## Video Explicación De Instrumento Y Personaje
+| **Plataforma**    | **Link** |
+|-----------------|-------------|
+| YouTube          | [https://youtu.be/4E0DTwat25U](https://youtu.be/4E0DTwat25U)     |
 
 
 ## Imagen de la captura de pantalla de los Examanes de Cisco
-### Enlace a la Carpeta de Google Drive donde se encuentran las imagenes
+### Modulo1 
+![image](https://github.com/user-attachments/assets/f9b107fd-4b4c-4812-b1d1-700e32359376)
 
-| **Descripción**                | **Enlace**                                                                                                                                      |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| Carpeta en Google Drive Calificaciones   | [https://drive.google.com/drive/folders/10wRAaZcPLSRk5uHJxh8gHAYs2oDzu874?usp=drive_link](https://drive.google.com/drive/folders/10wRAaZcPLSRk5uHJxh8gHAYs2oDzu874?usp=drive_link) |
+### Modulo 2
+![image](https://github.com/user-attachments/assets/0da41c6a-35a1-4130-bf7d-6acf020fd248)
+### Modelo 3
+![image](https://github.com/user-attachments/assets/1d985b69-7c07-41d6-989e-10039c57482e)
+
+
+### Modulo 4
+
+![image](https://github.com/user-attachments/assets/5f6e095a-f6bf-45be-8630-4eaf452f698f)
+
+
+
+### Modulo 5
+
+![image](https://github.com/user-attachments/assets/ec35d178-4f79-45a0-9c05-c814fb9d9103)
+
+
+### Examen Final
+
+![image](https://github.com/user-attachments/assets/5210df79-a08d-4288-8e00-e8c83d297ff4)
+
