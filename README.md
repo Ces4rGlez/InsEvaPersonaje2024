@@ -63,8 +63,8 @@ El módulo de sonido, conectado al ESP32, le permite reproducir melodías navide
 
 | **Descripción**                           | **Enlace**                                              |
 |-------------------------------------------|---------------------------------------------------------|
-| [Link 1](https://wokwi.com/projects/409964509164825601) | [https://wokwi.com/projects/409964509164825601](https://wokwi.com/projects/409964509164825601) |
-| [Link 2](https://wokwi.com/projects/410110558900873217) | [https://wokwi.com/projects/410110558900873217](https://wokwi.com/projects/410110558900873217) |
+| [Link 1](https://wokwi.com/projects/410110558900873217) | [https://wokwi.com/projects/410110558900873217](https://wokwi.com/projects/410110558900873217) |
+| [Link 2](https://wokwi.com/projects/409964509164825601) | [https://wokwi.com/projects/409964509164825601](https://wokwi.com/projects/409964509164825601) |
 
 
 
